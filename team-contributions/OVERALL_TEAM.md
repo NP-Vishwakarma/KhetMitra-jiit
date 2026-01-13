@@ -49,7 +49,7 @@
 </div>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb"/>
 </p>
 
 ---
@@ -72,49 +72,6 @@
   <img src="https://skillicons.dev/icons?i=android,arduino"/>
 </p>
 
----
-
-### 🗄️ Sonal Tyagi  
-#### Backend • Database
-
-<div align="left">
-
-🧱 Built the **core system backbone**
-
-- 🛠️ Designed REST APIs and backend architecture  
-- 🗃️ Structured and managed database schemas  
-- 🔁 Handled data pipelines between IoT, AI & frontend  
-- ⚡ Optimized server-side performance  
-
-</div>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
----
-
-### 🤖 Nikhil Raghav  
-#### AI Model Development
-
-<div align="left">
-
-🧠 Added **intelligence & prediction capability**
-
-- 📊 Designed AI/ML model logic  
-- 🔍 Processed agricultural & sensor datasets  
-- 🌾 Worked on crop recommendation intelligence  
-- 🔗 Integrated AI outputs into backend pipeline  
-
-</div>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:16a34a&height=3"/>
 
 ## 🚀 System Highlights
 

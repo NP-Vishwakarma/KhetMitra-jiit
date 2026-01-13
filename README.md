@@ -10,23 +10,25 @@
 </table>
 <!--  -->
 <p align="center">
-  <img src="khetmitra/src/assets/winter.png" />
+  <img src="khetmitra/src/assets/innovate.png" width="600", height="190" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hey+there%2C+we+are+Aloo+Intelligence+🥔🧠;4+Aloo+coming+to+Bhimtal+🚜;Building+AI-powered+Smart+Farming+🌱;From+Soil+to+Smart+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=700&lines=Hey+there%2C+we+are+Aloo+Intelligence+🥔🧠;2+Aloo+coming+to+JIIT+Noida+🚜;Building+AI-powered+Smart+Farming+🌱;From+Soil+to+Smart+Decisions" />
 </p>
 
 <p align="center">
-<b>Hackathon:</b> Hack The Winter – The Second Wave (Angry Bird Edition)<br/>
-<b>Organised by:</b> Graphic Era Hill University (GEHU), Bhimtal<br/>
+<b>Hackathon:</b> Innovate 3.0 - Beyond Imagination
+Into Innovation
+JIIT NOIDA<br/>
+<b>Organised by:</b>JIIT Noida<br/>
 <b>Problem Statement:</b> Open Innovation<br/>
 <b>Team Name:</b> Aloo Intelligence (AI) 🥔🧠
 </p>
 
 <p align="center">
   📄 <b>Hackathon Presentation</b><br/>
-  <a href="khetmitra/src/assets/hack_the_winter.pdf" target="_blank" style="font-size:16px;font-weight:600;">
+  <a href="khetmitra/src/assets/Innovate_ppt.pdf" target="_blank" style="font-size:16px;font-weight:600;">
     👉 Click here to view the project presentation
   </a>
 </p>

@@ -28,7 +28,7 @@ JIIT NOIDA<br/>
 
 <p align="center">
   📄 <b>Hackathon Presentation</b><br/>
-  <a href="khetmitra/src/assets/Inno.pdf" target="_blank" style="font-size:16px;font-weight:600;">
+  <a href="khetmitra/src/assets/Innov.pdf" target="_blank" style="font-size:16px;font-weight:600;">
     👉 Click here to view the project presentation
   </a>
 </p>

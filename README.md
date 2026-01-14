@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=700&lines=Hey+there%2C+we+are+Aloo+Intelligence+🥔🧠;2+Aloo+coming+to+JIIT+Noida+🚜;Building+AI-powered+Smart+Farming+🌱;From+Soil+to+Smart+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=700&lines=Hey+there%2C+we+are+Team+AI+(Aloo+Intelligence)+🥔🧠;2+Aloo+coming+to+JIIT+Noida+🚜;Building+AI-powered+Smart+Farming+🌱;From+Soil+to+Smart+Decisions" />
 </p>
 
 <p align="center">

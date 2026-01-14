@@ -72,6 +72,7 @@
   <img src="https://skillicons.dev/icons?i=android,arduino"/>
 </p>
 
+---
 
 ## 🚀 System Highlights
 
